@@ -1,0 +1,5 @@
+Pkg install & upgrade
+Pkg install git
+Pkg install http://github/soffi20/git.zip
+Pkg zip
+Zip 
